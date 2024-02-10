@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Error 401</title>
+    <title>math</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@
     </style>
 </head>
 <body>
-    <h1>Error 401: Unauthorized</h1>
-    <p>Sorry, you are not authorized to access this page.</p>
+    <h1>Error 401</h1>
+ 
 </body>
 </html>
